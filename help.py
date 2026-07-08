@@ -4,3 +4,11 @@ def add (a,b):
     return a+b ; 
 
 add(8,9)
+
+def logic(a,b): 
+    if a>b: 
+        print('a is greater than b ')
+    else : 
+        print("b is greater than a")
+
+logic(7,8)
