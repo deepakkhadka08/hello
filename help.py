@@ -14,11 +14,7 @@ def logic(a,b):
 logic(7,8)
 
 b = "hello world!"
-<<<<<<< HEAD
-print(b)
-=======
 print(b)
 
 this = " hey"
 print(this)
->>>>>>> main
