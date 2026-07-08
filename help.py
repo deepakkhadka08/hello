@@ -12,3 +12,6 @@ def logic(a,b):
         print("b is greater than a")
 
 logic(7,8)
+
+b = "hello world!"
+print(b)
