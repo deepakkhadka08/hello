@@ -15,3 +15,6 @@ logic(7,8)
 
 b = "hello world!"
 print(b)
+
+this = " hey"
+print(this)
