@@ -18,3 +18,5 @@ print(b)
 
 that = "This"
 print(that)
+hello  = "hey"
+print(hello)
